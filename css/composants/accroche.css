@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Qwitcher+Grypen&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    ;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    margin: 50px;
+    margin-bottom: -1px;
+    font-style: italic;
+}
+
+.auteur {
+    font-family: "Montserrat", sans-serif;
+    margin-left: 100px;
+    font-style: italic;
+}
+
+btn {
+    font-family: "Montserrat", sans-serif;
+    margin-left: 100px;
+}
+
+.blue{
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+li {
+    list-style: none
+  }

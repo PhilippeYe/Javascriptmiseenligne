@@ -1,0 +1,66 @@
+@import url(composants/avatar.css);
+@import url(composants/banner.css);
+@import url(composants/bouttons.css);
+@import url(composants/containers.css);
+@import url(composants/navbar.css);
+@import url(composants/accroche.css);
+@import url(composants/texte.css);
+
+@media screen and (max-width: 480px) {
+    .titre {
+        font-size: 10px;
+    }
+
+    .auteur {
+        font-size: 7px;
+    }
+
+    main {
+        font-size: 7px;
+        flex-direction: column;
+    }
+
+    img {
+        max-width: 80px;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .titre {
+        font-size: 30px;
+    }
+
+    .auteur {
+        font-size: 10px;
+    }
+
+    main {
+        font-size: 10px;
+        width: 100%;
+    }
+
+    .imggg {
+        max-width: 150px;
+    }
+
+
+}
+
+@media screen and (max-width: 1024px) {
+    .titre {
+        font-size: 25px;
+    }
+
+    .auteur {
+        font-size: 15px;
+    }
+
+    main {
+        font-size: 15px;
+    }
+
+    .imggg{
+        max-width: 200px;
+    }
+
+}

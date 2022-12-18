@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+main {
+    padding-top: 80px;
+    flex-wrap: wrap;
+}
+
+section {
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 50px;
+
+}
+
+section div {
+    width: auto;
+    height: 1000px;
+}
+
+.anim {
+    padding: 100px;
+    padding-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anim2 {
+    padding: 50px;
+
+}
+
+.cod {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cod2 {
+    padding: 50px;
+}
+
+.crea {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.crea2 {
+    padding: 50px;
+}
+
+.jv {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jv2 {
+    padding: 50px;
+}
+
+.com {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.com2 {
+    padding: 50px;
+}
+
+.carouselExampleCaptions {
+    margin: 30px;
+}
